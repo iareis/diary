@@ -2,3 +2,8 @@
 
 Objetivo de um rol de textos e materiais lidos.
 Intuito de organizar um histórico.
+
+## RESUMO
+
+### MENDIX
+### XML
